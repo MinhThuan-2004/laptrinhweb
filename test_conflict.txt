@@ -1,2 +1,2 @@
 file text_conflict.txt
-thuoc branch: text_conflict.txt
+thuoc branch: text_conflict
