@@ -1,0 +1,2 @@
+file text_merge.txt
+thuoc branch: text_merge
